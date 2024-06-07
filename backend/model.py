@@ -1,20 +1,18 @@
-from flask import Flask, request, jsonify, send_from_directory
 import os
 import requests
 import shutil
+import time
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from flask import Flask, request, jsonify, send_from_directory
+from flask_cors import CORS
 from llama_index.core import VectorStoreIndex, Document
 from llama_index.core.retrievers import VectorIndexRetriever
 from llama_index.core.indices.postprocessor import SimilarityPostprocessor
 from llama_index.core.query_engine import RetrieverQueryEngine
-from llama_index.core.response.pprint_utils import pprint_response
-from flask_cors import CORS
-
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins
-
 
 # Load environment variables
 load_dotenv()
@@ -24,6 +22,7 @@ os.environ['OPENAI_API_KEY'] = os.getenv("OPENAI_API_KEY")
 def get_navbar_links(soup):
     navbar_links = []
     navbars = soup.find_all('nav')
+    print(f"Found {len(navbars)} navbar elements.")
     for navbar in navbars:
         links = navbar.find_all('a', href=True)
         for link in links:
@@ -34,24 +33,66 @@ def get_navbar_links(soup):
 def get_information_links(soup, keywords):
     information_links = []
     links = soup.find_all('a', href=True)
+    print(f"Found {len(links)} total links.")
     for link in links:
         if any(keyword in link.get_text().lower() for keyword in keywords):
             information_links.append(link['href'])
     return information_links
 
-# Function to find useful links on a webpage
-def find_useful_links(url, keywords):
+# Function to fetch page content
+def fetch_page_content(url):
     try:
         response = requests.get(url)
         response.raise_for_status()
-        content = response.content
-        soup = BeautifulSoup(content, 'html.parser')
-        navbar_links = get_navbar_links(soup)
-        information_links = get_information_links(soup, keywords)
-        return navbar_links, information_links
+        return response.content
     except requests.exceptions.RequestException as e:
-        print(f"Error fetching the URL: {e}")
+        print(f"Error fetching the URL {url}: {e}")
+        return None
+
+# Function to find nested links
+def find_nested_links(url, keywords, depth=2):
+    if depth == 0:
+        return []
+
+    content = fetch_page_content(url)
+    if content is None:
+        return []
+
+    soup = BeautifulSoup(content, 'html.parser')
+    links = get_information_links(soup, keywords)
+    
+    all_links = []
+    for link in links:
+        absolute_link = requests.compat.urljoin(url, link)
+        all_links.append(absolute_link)
+        print(f"Fetching nested links from: {absolute_link}")
+        time.sleep(1)  # To avoid overwhelming the server
+        nested_links = find_nested_links(absolute_link, keywords, depth - 1)
+        all_links.extend(nested_links)
+    
+    return all_links
+
+# Function to find useful links on a webpage
+def find_useful_links(url, keywords, depth=2):
+    content = fetch_page_content(url)
+    if content is None:
         return [], []
+
+    soup = BeautifulSoup(content, 'html.parser')
+    
+    navbar_links = get_navbar_links(soup)
+    information_links = get_information_links(soup, keywords)
+    
+    all_information_links = []
+    for link in information_links:
+        absolute_link = requests.compat.urljoin(url, link)
+        all_information_links.append(absolute_link)
+        print(f"Fetching nested links from: {absolute_link}")
+        time.sleep(1)  # To avoid overwhelming the server
+        nested_links = find_nested_links(absolute_link, keywords, depth - 1)
+        all_information_links.extend(nested_links)
+    
+    return navbar_links, all_information_links
 
 # Function to save links to a file
 def save_links_to_file(navbar_links, information_links, filename):
@@ -59,6 +100,7 @@ def save_links_to_file(navbar_links, information_links, filename):
         file.write("Navbar Links:\n")
         for link in navbar_links:
             file.write(f"{link}\n")
+        
         file.write("\nInformation Links:\n")
         for link in information_links:
             file.write(f"{link}\n")
@@ -129,6 +171,7 @@ query_engine = RetrieverQueryEngine(retriever=retriever, node_postprocessors=[po
 @app.route("/")
 def home():
     return send_from_directory('', 'index.html')
+
 @app.route("/query", methods=["POST"])
 def query():
     data = request.json
