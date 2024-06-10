@@ -117,19 +117,19 @@ def read_links_from_file(filename):
 
 # Function to download webpages
 def download_webpages(links, download_folder):
-    if os.path.exists(download_folder):
-        shutil.rmtree(download_folder)
-    os.makedirs(download_folder)
+    if not os.path.exists(download_folder):
+        os.makedirs(download_folder)
     for link in links:
-        try:
-            response = requests.get(link)
-            response.raise_for_status()
-            filename = os.path.join(download_folder, link.replace('https://', '').replace('/', '_') + '.html')
-            with open(filename, 'w', encoding='utf-8') as file:
-                file.write(response.text)
-            print(f"Downloaded: {filename}")
-        except requests.exceptions.RequestException as e:
-            print(f"Failed to download {link}: {e}")
+        filename = os.path.join(download_folder, link.replace('https://', '').replace('/', '_') + '.html')
+        if not os.path.exists(filename):
+            try:
+                response = requests.get(link)
+                response.raise_for_status()
+                with open(filename, 'w', encoding='utf-8') as file:
+                    file.write(response.text)
+                print(f"Downloaded: {filename}")
+            except requests.exceptions.RequestException as e:
+                print(f"Failed to download {link}: {e}")
 
 # Function to extract text from HTML files
 def extract_text_from_html_files(input_directory, output_file_path):
@@ -149,24 +149,36 @@ def extract_text_from_html_files(input_directory, output_file_path):
     with open(output_file_path, 'w', encoding='utf-8') as output_file:
         output_file.write(all_text)
 
-# Function to load data from a text file
+# Modified Function to Load Data from a Text File
 def load_data_from_txt(file_path, encodings=('utf-8', 'cp1252')):
     for encoding in encodings:
         try:
             with open(file_path, 'r', encoding=encoding) as file:
                 content = file.read()
+            if content.strip() == "":
+                raise ValueError("File content is empty")
             return [Document(text=content)]
         except UnicodeDecodeError:
             continue
     raise Exception("Unable to decode the file using specified encodings")
 
-# Initialize the model
+# Initialize the model with additional debug prints and checks
 file_path = "cleaned_text_output.txt"
-documents = load_data_from_txt(file_path)
-index = VectorStoreIndex.from_documents(documents, show_progress=True)
-retriever = VectorIndexRetriever(index=index, similarity_top_k=4)
-postprocessor = SimilarityPostprocessor(similarity_cutoff=0.75)
-query_engine = RetrieverQueryEngine(retriever=retriever, node_postprocessors=[postprocessor])
+try:
+    documents = load_data_from_txt(file_path)
+    if not documents:
+        raise ValueError("No documents loaded")
+    for doc in documents:
+        if not doc.text.strip():
+            raise ValueError("Document content is empty")
+    print("Documents loaded successfully")
+
+    index = VectorStoreIndex.from_documents(documents, show_progress=True)
+    retriever = VectorIndexRetriever(index=index, similarity_top_k=4)
+    postprocessor = SimilarityPostprocessor(similarity_cutoff=0.75)
+    query_engine = RetrieverQueryEngine(retriever=retriever, node_postprocessors=[postprocessor])
+except Exception as e:
+    print(f"Error initializing the model: {e}")
 
 @app.route("/")
 def home():
