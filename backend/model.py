@@ -163,6 +163,9 @@ def load_data_from_txt(file_path, encodings=('utf-8', 'cp1252')):
 # Initialize the model
 file_path = "cleaned_text_output.txt"
 documents = load_data_from_txt(file_path)
+if not documents or not documents[0].text.strip():
+    print("Error: No content found in the documents.")
+    raise ValueError("Cannot build index from nodes with no content. Please ensure all nodes have content.")
 index = VectorStoreIndex.from_documents(documents, show_progress=True)
 retriever = VectorIndexRetriever(index=index, similarity_top_k=4)
 postprocessor = SimilarityPostprocessor(similarity_cutoff=0.75)
