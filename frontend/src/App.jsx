@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './App.css';
-import 'tailwindcss/tailwind.css';
 
 function App() {
   const [messages, setMessages] = useState([
@@ -52,24 +51,25 @@ function App() {
 
   return (
     <div className="App">
-      <div className="chat-container flex flex-col items-center justify-center h-screen bg-gray-100">
-        <div className="chat-box bg-white p-4 shadow-md w-full max-w-lg">
-          {messages.map((message, index) => (
-            <p key={index} className={`p-2 rounded ${message.sender === 'bot' ? 'bg-blue-100 text-left' : 'bg-green-100 text-right'}`}>
-              {message.text}
-            </p>
-          ))}
-          {loading && <div className="loader my-2 flex justify-center"><div className="loader-dot animate-spin rounded-full h-8 w-8 border-t-4 border-blue-500"></div></div>}
+      <div className="chat-container">
+        <div className="chat-box">
+          <div className="message-container">
+            {messages.map((message, index) => (
+              <p key={index} className={`message ${message.sender === 'bot' ? 'bot-message' : 'user-message'}`}>
+                {message.text}
+              </p>
+            ))}
+            {loading && <div className="loader my-2"><div className="loader-dot h-8 w-8 border-t-4 border-blue-500"></div></div>}
+          </div>
         </div>
-        <div className="input-box mt-4 flex w-full max-w-lg">
+        <div className="input-box">
           <input
             type="text"
             value={userInput}
             onChange={(e) => setUserInput(e.target.value)}
             placeholder="Type your question here..."
-            className="flex-1 p-2 border border-gray-300 rounded-l"
           />
-          <button onClick={sendMessage} className="bg-blue-500 text-white p-2 rounded-r">Send</button>
+          <button onClick={sendMessage}>Send</button>
         </div>
       </div>
     </div>
