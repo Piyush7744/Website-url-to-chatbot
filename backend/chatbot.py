@@ -1,6 +1,14 @@
 import streamlit as st
-from backend import find_useful_links, save_links_to_file, read_links_from_file, download_webpages, extract_text_from_html_files, run_vector_index
 import os
+import random
+import string
+from backend import find_useful_links, save_links_to_file, read_links_from_file, download_webpages, extract_text_from_html_files
+
+def generate_token(length=16):
+    """Generate a random token."""
+    characters = string.ascii_letters + string.digits
+    token = ''.join(random.choice(characters) for _ in range(length))
+    return token
 
 def main():
     st.title("Web Scraper and Indexer")
@@ -8,9 +16,10 @@ def main():
     # Initialize session state variables
     if 'scraping_done' not in st.session_state:
         st.session_state.scraping_done = False
+    if 'token' not in st.session_state:
+        st.session_state.token = None
 
     url = st.text_input("Enter Website URL", "")
-    query = st.text_input("Enter Query", "Application Development & Maintenance")
     keywords = ["internet of things", "iot", "tutorial", "guide", "documentation"]
     depth = 2
 
@@ -39,28 +48,17 @@ def main():
                     st.write(f"Extracted text saved to {output_file_path}")
 
                     st.session_state.scraping_done = True
-                    st.success("All steps completed successfully!")
+                    st.session_state.token = generate_token()
+                    token_file = "token.txt"
+                    with open(token_file, "w") as f:
+                        f.write(st.session_state.token)
+                    st.success("All steps completed successfully! Your access token is: " + st.session_state.token)
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
             else:
                 st.error("Please enter a URL")
     else:
         st.write("Scraping and indexing have already been completed. You can now run queries.")
-
-    if st.button("Run Query"):
-        if url:
-            try:
-                domain = url.split("//")[-1].split("/")[0]
-                file_path = f"{domain}_cleaned_text.txt"
-                query_engine = run_vector_index(file_path)
-                
-                response = query_engine.query(query)
-                st.write("Response:")
-                st.write(response.response)
-            except Exception as e:
-                st.error(f"An error occurred: {e}")
-        else:
-            st.error("Please enter a URL")
 
 if __name__ == "__main__":
     main()
