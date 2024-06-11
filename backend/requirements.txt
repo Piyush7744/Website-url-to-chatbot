@@ -4,3 +4,4 @@ python-dotenv
 llama-index
 flask
 flask-cors
+streamlit

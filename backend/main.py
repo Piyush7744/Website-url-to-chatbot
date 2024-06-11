@@ -140,7 +140,7 @@ def save_links_to_file(navbar_links, information_links, filename):
             file.write(f"{link}\n")
 
 # Example usage
-url = 'https://www.quicsolv.com/'
+url = 'https://www.direction.biz/'
 keywords = ['internet of things', 'iot', 'tutorial', 'guide', 'documentation']
 depth = 2  # Adjust the depth as needed
 navbar_links, information_links = find_useful_links(url, keywords, depth)

@@ -1,552 +1,3 @@
-﻿
-Application Development & Maintenance Services | Direction Software
-+91 (022) 6152 5000
-info@direction.biz
-Contact Us
-IT SERVICES
-Application Development & Maintenance
-Outsource Development
-Custom Developed Application
-Legacy Software Maintenance
-Web Application & Portal Development
-Microsoft Business Solutions
-Dynamics 365 Business Central
-Dynamics 365 CRM
-Microsoft Power Platform
-Microsoft 365
-AI Solutions
-Data Management
-Industries
-Showcase
-Who We Are
-Our Team
-Our Guiding Values
-Careers
-Clients
-View All Clients
-Testimonials
-Blogs
-Contact
-We use cookies to improve the user-friendliness of our website. To find out more about this, see our
-Privacy Policy.
-Accept
-Application Development and Maintenance Services
-Revamp Your System's Capabilities with Direction Software's Application Development and Maintenance Services
-Know More
-IT Services
-Application Development and Maintenance
-Application Development and Maintenance Services
-At Direction, our teams collaborate with the internal team within a company and provide them with external support. We carefully choose experts in the respective area who are skilled in client interaction to provide technical as well as functional support. They work with the client to provide time and cost-effective solutions, maximizing the returns for the client.
-Outsourced Development
-At Direction, we have successfully set up many extended teams for our clients in Europe, UK and the US. We have done it for start-ups, SMBs, and enterprises and generated the best results. We have teams with diversified skill sets in technologies like Java, Python, Php, Dot Net, Android, iOS, React Native, Full Stack, DevOps, AIML, BI etc.
-Read more
-Custom Developed Application
-Our custom developed application centers act as an extended arm of your organization. Direction software has a proven track record of doing business in the US & Europe. We strictly follow business processes and business framework to deliver state of the art custom developed application services for our clients.
-Read more
-Legacy Software Maintenance
-At Direction Software, we remember how the older systems and languages work. We will shore up its weaknesses and link it to your other systems, extending its life and value.
-We use the tools on hand to rejuvenate your legacy systems with an objective to transform old, proprietary systems into standards-compliant environments.
-Read more
-At Direction Software
-+
-Projects
-+
-Customers
-+
-Technology experts available
-Connect with our Experts
-Some of our Application Development and Maintenance clients
-Application Development and Maintenance Testimonials
-So many success stories...
-Here are just a few testimonials from some of our satisfied customers. We could not fit them all on this page please
-CLICK HERE
-to see more...
-Thanks for the new exe. First of all I would like to accredit your work, you are always working with a high motivation and notes like inconsistences of yesterday shows that you are very assiduous, we really appreciate that and are happy to have such a colleague in India.
-Bonprix
-Henning Chantre
-– Project Manager
-Thanks a lot for your support! As always soooo Good to have you and your team as support.
-OTTO Versand
-Anja Schlösser
-– Senior Manager
-Many thanks to you and your team for the good cooperation with Otto IT in the last one and a half years. I hope we will continue the good team work also for the enhancement part.
-OTTO Group
-Martin Fritz
-– Project Manager
-I am just going through the mails of digikette of last week and to be honest: I am impressed on how many things have been done in the past two weeks. Thanks a lot for very good work.
-Bonprix
-Kai Schmidt
-– EM – PS
-Request a Call Back
-Direction Software LLP
-5, Brady Gladys Plaza,
-1/447 Senapati Bapat Marg,
-Lower Parel, Mumbai - 400 013, India
-Get in Touch
-Email:
-info@direction.biz
-Phone:
-91 (22) 6152 5000
-Fax: 91 (22) 2491 1046
-IT SERVICES
-Application Development & Maintenance
-- Outsourced Software Development
-- Custom Application Development
-- Legacy Software Maintenance
-- Web Application & Portal Development
-- Web Technologies
-Microsoft Business Solutions
-- Microsoft Dynamics 365 Business Central
-- Microsoft Dynamics 365 CRM
-- Microsoft Power BI & Power Apps
-- Upgrade Dynamics NAV to Business Central
-Artificial Intelligence
-Data Management
-- Back Office
-- Trade Reconciliation
-INDUSTRIES
-BFSI
-E-Commerce
-Healthcare
-Hospitality
-Logistics
-Real Estate
-Services
-Sourcing
-Supply Chain Management
-Travel / Transport
-WHO WE ARE
-Company Overview
-Our Team
-Our Guiding Values
-Careers
-Clients
-BLOGS
-SHOWCASE
-Corporate Brochure
-Case Studies
-White Papers
-LEGAL POLICIES
-Privacy Policy
-Terms of Use
-© 2024 Direction Software LLP. All Rights Reserved.
-
-﻿
-Custom Developed Application Services From Direction Software
-+91 (022) 6152 5000
-info@direction.biz
-Contact Us
-IT SERVICES
-Application Development & Maintenance
-Outsource Development
-Custom Developed Application
-Legacy Software Maintenance
-Web Application & Portal Development
-Microsoft Business Solutions
-Dynamics 365 Business Central
-Dynamics 365 CRM
-Microsoft Power Platform
-Microsoft 365
-AI Solutions
-Data Management
-Industries
-Showcase
-Who We Are
-Our Team
-Our Guiding Values
-Careers
-Clients
-View All Clients
-Testimonials
-Blogs
-Contact
-We use cookies to improve the user-friendliness of our website. To find out more about this, see our
-Privacy Policy.
-Accept
-Custom Developed Application
-Set up on-demand, dedicated, customized, and secure software development centers in India
-Know More
-IT Services
-Application Development and Maintenance
-Custom Developed Application
-Custom Developed Application
-We at Direction ensure that you retain complete control of the IP generated and do not make huge investments for it. Direction software has a proven track record of doing business in the US & Europe. We strictly follow business processes and business framework to deliver state of the art custom developed application services to our clients.
-The Direction Software Advantage
-Running a remote organization but with no upfront investments
-Pay per use pricing
-Scale up or scale down as per business requirements
-Direction Software’s Methodology
-At Direction, we aim to please the customer and ensure that the product developed surpasses expectations. Our methodology addresses questions on quality, security and delivery and ensures that we meet clients business objectives.
-Planning
-We create a stage-wise action plan for the project. It includes a breakdown of the tasks to be performed.  There are processes set to monitor project progress to ensure that the project is on track and perform any course corrections if required.
-Both the client and the development team will work towards a common pre-defined objective. Requirement analysis will help to define the project scope and prioritize activities as per the scope of the work to be done.
-System Analysis and Design
-The system analysis and design phase help draw up the logical design that the system would follow.
-The first layer is the human interaction layer which focuses on the look and feel of the system, page layout, and page flow. It is designed to meet user expectations.
-The application logic layer covers various aspects of data flow, data storage, data definition, defining classes & objects, identifying structures, subjects, services and attributes and drawing up activity sheets.
-The database analysis and design will deal with concepts such as database capacity planning, history information, database design (RDBMS, ODBMS, Star Schema, Snowflake, Normalized).
-The technical specification is a critical document and acts as an interface between the functional specialists and the development team.
-Technical Design and Development
-In the initial stage of this phase, we develop the system, test it, and a working prototype of the same is made available.
-Then comes the system testing phase, in which we perform multiple tests. These include stand-alone, modular and link testing. We also perform several live tests (e.g. stress testing) and document all the test results, findings, changes made to the system and task responsibilities.
-In the next phase, we hand over the system to the client. In the initial stage, some users are chosen from the client’s organization and trained to use the system.  We also provide technical training to the client’s technical team.
-Post this preparation phase, the users also test the system and report bugs, if any. The development team then debugs these issues, and once fixed, again transferred them to the client.
-Installation
-The installation is performed at the client’s site as per the detailed procedure shared during client training. We recommend having a Project Manager or a development team representative on-site during installation.
-Security, Documentation and Configuration Management
-There are some aspects of our methodology which are applicable for the duration of the entire project lifespan.
-We ensure encrypted software transfer after all the necessary documents are approved and signed off. Virus scans and control processes are a part of the procedure at each phase.
-The development teams sign an NDA to ensure the confidentiality of the project. We take daily back-ups, ensure version control, and documentation control with concise and comprehensive documentation at each stage.
-At Direction Software
-+
-Projects
-+
-Applications Developed
-+
-Years of Experience
-Connect with our Experts
-Some of our Custom Developed Application clients
-Custom Developed Application Testimonials
-So many success stories...
-Here are just a few testimonials from some of our satisfied customers. We could not fit them all on this page please
-CLICK HERE
-to see more...
-Just wanted to let you know that there are users out there who are very thankful for your support and appreciate your hard work!
-Bonprix
-Stephan Schwake
-– Project Manager / Consultant / ES-PPS-SCI
-Many thanks to you and your team for the good cooperation with Otto IT in the last one and a half years. I hope we will continue the good team work also for the enhancement part.
-OTTO Group
-Martin Fritz
-– Project Manager
-View Case Studies
-Request a Call Back
-Direction Software LLP
-5, Brady Gladys Plaza,
-1/447 Senapati Bapat Marg,
-Lower Parel, Mumbai - 400 013, India
-Get in Touch
-Email:
-info@direction.biz
-Phone:
-91 (22) 6152 5000
-Fax: 91 (22) 2491 1046
-IT SERVICES
-Application Development & Maintenance
-- Outsourced Software Development
-- Custom Application Development
-- Legacy Software Maintenance
-- Web Application & Portal Development
-- Web Technologies
-Microsoft Business Solutions
-- Microsoft Dynamics 365 Business Central
-- Microsoft Dynamics 365 CRM
-- Microsoft Power BI & Power Apps
-- Upgrade Dynamics NAV to Business Central
-Artificial Intelligence
-Data Management
-- Back Office
-- Trade Reconciliation
-INDUSTRIES
-BFSI
-E-Commerce
-Healthcare
-Hospitality
-Logistics
-Real Estate
-Services
-Sourcing
-Supply Chain Management
-Travel / Transport
-WHO WE ARE
-Company Overview
-Our Team
-Our Guiding Values
-Careers
-Clients
-BLOGS
-SHOWCASE
-Corporate Brochure
-Case Studies
-White Papers
-LEGAL POLICIES
-Privacy Policy
-Terms of Use
-© 2024 Direction Software LLP. All Rights Reserved.
-
-﻿
-Web Application and E-Commerce Development Services | Direction Software
-+91 (022) 6152 5000
-info@direction.biz
-Contact Us
-IT SERVICES
-Application Development & Maintenance
-Outsource Development
-Custom Developed Application
-Legacy Software Maintenance
-Web Application & Portal Development
-Microsoft Business Solutions
-Dynamics 365 Business Central
-Dynamics 365 CRM
-Microsoft Power Platform
-Microsoft 365
-AI Solutions
-Data Management
-Industries
-Showcase
-Who We Are
-Our Team
-Our Guiding Values
-Careers
-Clients
-View All Clients
-Testimonials
-Blogs
-Contact
-We use cookies to improve the user-friendliness of our website. To find out more about this, see our
-Privacy Policy.
-Accept
-Web Application and E-Commerce Development
-Build interactive, feature-rich, and high-performance web applications and portals
-Know More
-IT Services
-Web Application and Development
-Web Application and E-Commerce Services
-At Direction Software, we have 20+ years of Development / Maintenance experience. Our Solution uses a data encryption model with high-security high-security plugins for protection from new malware and threats. We have a successful track record of building over 50 applications for global clients.
-Web Application and E-Commerce Development Services by Direction
-Web Technologies
-We have experts in front-end framework, back-end framework, coding languages, and databases.
-For application development, we use multiple technologies like .Net, Java, PHP etc., having advantages for the end-user as well as for the developer.
-Read more
-Web Application and Portal Development
-We create customised web applications and e-commerce portals for companies as per their business specifications and requirements.
-We have expertise in making applications for E-Commerce, Fashion, Airlines, Banking, Supply Chain & Logistics, Investment Management etc., industries.
-Read more
-The Direction Software Advantage
-On-time Project Delivery
-Budget- friendly Solutions
-Future-ready Applications
-At Direction Software
-+
-Projects
-+
-Technology Experts
-+
-Locations worldwide
-Connect with our Experts
-Some of our Web Application and E-Commerce Development clients
-Web Application and E-Commerce Development Testimonials
-So many success stories...
-Here are just a few testimonials from some of our satisfied customers. We could not fit them all on this page please
-CLICK HERE
-to see more...
-I would like to catch the opportunity to thank all of you for the performance during closing time of the enquiries for HAKA and DOB last week!
-OTTO Versand
-Christoph Spreen
-– Project Manager, Business Development
-This version corresponds to 100% to my request. I am extremely satisfied with the quality of your support and I desire to express my praise. Great work.
-Hermes
-Meinolf Lambertz
-– IT-Planning Strategy & Controlling
-Thank you for making our new website. We are very happy with the results, and I am sure as more people log on we will see better sales. In fact the improvements, that you and your team have put in is what is giving us these benefits, which we hope to better day after day. Your team has been extremely co-operative and know how to suggest and listen to a customer’s needs. Keep it up!
-Charaghdin
-Raju Daswani
-– Owner
-We got feedback from department E4 regarding the upload process for season 122 with many thanks, that the upload process worked so well for them ! :-) So, I’m happy to forward the praise to you! :-) Thank you again for the good work done on the upload process to Ebazaar.
-Bonprix
-Johanna Koston
-– Project Manager
-Request a Call Back
-Direction Software LLP
-5, Brady Gladys Plaza,
-1/447 Senapati Bapat Marg,
-Lower Parel, Mumbai - 400 013, India
-Get in Touch
-Email:
-info@direction.biz
-Phone:
-91 (22) 6152 5000
-Fax: 91 (22) 2491 1046
-IT SERVICES
-Application Development & Maintenance
-- Outsourced Software Development
-- Custom Application Development
-- Legacy Software Maintenance
-- Web Application & Portal Development
-- Web Technologies
-Microsoft Business Solutions
-- Microsoft Dynamics 365 Business Central
-- Microsoft Dynamics 365 CRM
-- Microsoft Power BI & Power Apps
-- Upgrade Dynamics NAV to Business Central
-Artificial Intelligence
-Data Management
-- Back Office
-- Trade Reconciliation
-INDUSTRIES
-BFSI
-E-Commerce
-Healthcare
-Hospitality
-Logistics
-Real Estate
-Services
-Sourcing
-Supply Chain Management
-Travel / Transport
-WHO WE ARE
-Company Overview
-Our Team
-Our Guiding Values
-Careers
-Clients
-BLOGS
-SHOWCASE
-Corporate Brochure
-Case Studies
-White Papers
-LEGAL POLICIES
-Privacy Policy
-Terms of Use
-© 2024 Direction Software LLP. All Rights Reserved.
-
-﻿
-Web Application & Portal Development Services by Direction Software
-+91 (022) 6152 5000
-info@direction.biz
-Contact Us
-IT SERVICES
-Application Development & Maintenance
-Outsource Development
-Custom Developed Application
-Legacy Software Maintenance
-Web Application & Portal Development
-Microsoft Business Solutions
-Dynamics 365 Business Central
-Dynamics 365 CRM
-Microsoft Power Platform
-Microsoft 365
-AI Solutions
-Data Management
-Industries
-Showcase
-Who We Are
-Our Team
-Our Guiding Values
-Careers
-Clients
-View All Clients
-Testimonials
-Blogs
-Contact
-We use cookies to improve the user-friendliness of our website. To find out more about this, see our
-Privacy Policy.
-Accept
-Web Applications and Portal Development
-Create future-ready customized web applications and portals for your business
-Know More
-IT Services
-Web Application and E-Commerce
-Web Applications and Portal Development
-Web Applications and Portal Development Services
-At Direction Software, we have a successful track record of building over 50 applications for global clients. We have a dedicated development team with having a minimum of 5+ years of experience with our flexible engagement model. We provide Interactive, feature-rich, robust, and high-performance web-based applications with multi-lingual support and compatibility with major browsers.
-B2B Portal
-We develop B2B portals with the right set of functionalities to solve problems faced by enterprises and buyers, such as Marketplace administration, marketing platform, product catalogue, automated order management, direct communication, scalable infrastructure etc.
-View Case Studies
-B2C Portal
-We specialise in creating bespoke E-Commerce solutions to cater to specific E-Commerce needs of clients across numerous verticals – from apparel to entertainment to hospitality and travel.
-We have expertise in multiple technologies, including LAMP, .NET, and Java. Our consultants can help you decide which of these technologies would best suit your requirement.
-If you have a more ‘standard’ type of requirement, we can rapidly provide a solution in WordPress with Woo Commerce, if required.
-View Case Studies
-Customer Portal
-A customer portal is a one-stop solution to deliver top quality services to your customers and maximize customer satisfaction. We have features such as product catalogues, self-service, customer support, multi-device support, order payment and management, online payments etc.
-View Case Studies
-Vendor Portal
-With businesses having complex vendor engagement dynamics, this portal helps you efficiently manage the procurement process and bridge the communication gap between vendors. We have features such as proposal/ tender/ quotation requests, Vendor database, Real-time information, instant communication, search and filter function, security etc.
-View Case Studies
-At Direction Software
-+
-Projects
-+
-Technology Experts
-+
-Locations worldwide
-Connect with our Experts
-Some of our Web Applications and Portal Development clients
-Web Applications and Portal Development Testimonials
-So many success stories...
-Here are just a few testimonials from some of our satisfied customers. We could not fit them all on this page please
-CLICK HERE
-to see more...
-The site looks great - thanks for your hard work and thanks for delivering a smooth launch. Have a great weekend!
-Biztrader
-Colby Sambrotto
-– CEO
-Thanks a ton! It's absolutely perfect.
-KrishnaMehta.Com (India)
-Krishna Mehta
-– Owner
-It is important for me that Direction Mobile Division has done a great job for us! Since there I have been fully satisfied of our collaboration (my producers also). Your deliveries were always on time and the quality was exactly what IN-FUSIO was expecting…
-Infusion
-Joaquim Roy
-Absolutely LOVED your layout and You have done a better job than what I had imagined. Loved IT, Loved it, Loved it.
-ICU Education
-Dr. P. K. Jain
-– Director
-Request a Call Back
-Direction Software LLP
-5, Brady Gladys Plaza,
-1/447 Senapati Bapat Marg,
-Lower Parel, Mumbai - 400 013, India
-Get in Touch
-Email:
-info@direction.biz
-Phone:
-91 (22) 6152 5000
-Fax: 91 (22) 2491 1046
-IT SERVICES
-Application Development & Maintenance
-- Outsourced Software Development
-- Custom Application Development
-- Legacy Software Maintenance
-- Web Application & Portal Development
-- Web Technologies
-Microsoft Business Solutions
-- Microsoft Dynamics 365 Business Central
-- Microsoft Dynamics 365 CRM
-- Microsoft Power BI & Power Apps
-- Upgrade Dynamics NAV to Business Central
-Artificial Intelligence
-Data Management
-- Back Office
-- Trade Reconciliation
-INDUSTRIES
-BFSI
-E-Commerce
-Healthcare
-Hospitality
-Logistics
-Real Estate
-Services
-Sourcing
-Supply Chain Management
-Travel / Transport
-WHO WE ARE
-Company Overview
-Our Team
-Our Guiding Values
-Careers
-Clients
-BLOGS
-SHOWCASE
-Corporate Brochure
-Case Studies
-White Papers
-LEGAL POLICIES
-Privacy Policy
-Terms of Use
-© 2024 Direction Software LLP. All Rights Reserved.
-
 Home | QuicSolv
 Home
 About Us
@@ -4328,6 +3779,746 @@ Any business with a large supply chain is impacted by delays at the yard. Quicso
 Do you want to more about these IoT Solutions?
 .....reach out to us by clicking the Contact Us button
 Contact Us
+© QuicSolv Technologies Pvt. Ltd. 2023. All rights reserved.
+Contact Us
+We're not around right now. But you can send us an email and we'll get back to you, asap.
+Not readable? Change text.
+Send
+Start typing and press Enter to search
+
+Industrial IOT
+Home
+About Us
+Careers
+Contact Us
+InsurTech
+Medical Underwriting
+Video MER
+Videography
+Tele MER
+Smart Report
+MER Quality Check with AI
+Digitization
+Automated Medical Under Writing
+Medical Underwriting
+Claims Investigation
+Motor Theft
+Motor OD
+AI-Based Claim Assessment
+Health Cashless
+Health Reimbursement
+Investigation App
+Disability Verification
+Risk Mitigation
+eKYC
+PIVC / PIVV
+Face Match
+Aadhar Card Masking
+Data Forgery Check
+Blog & News
+Technology News
+Case Studies
+Dr. Birbal Blog
+Internet of Things (IoT)
+InsurTech
+Medical Underwriting
+Video MER
+Videography
+Tele MER
+Smart Report
+MER Quality Check with AI
+Digitization
+Automated Medical Under Writing
+Medical Underwriting
+Claims Investigation
+Motor Theft
+Motor OD
+AI-Based Claim Assessment
+Health Cashless
+Health Reimbursement
+Investigation App
+Disability Verification
+Risk Mitigation
+eKYC
+PIVC / PIVV
+Face Match
+Aadhar Card Masking
+Data Forgery Check
+Blog & News
+Technology News
+Case Studies
+Dr. Birbal Blog
+Internet of Things (IoT)
+Industrial IoT (IIoT)
+Home
+Home
+/
+Internet of Things (IoT)
+https://www.quicsolv.com/internet-of-things/
+/
+Industry 4.0 – The Fourth Industrial Revolution
+https://www.quicsolv.com/internet-of-things/industry-4-0/
+/
+Industrial IoT (IIoT)
+Industrial Internet of Things (IIoT)
+The next wave of revolution for industries is going to come in the form of Internet of Things. The entire world is having this word understood better in an attempt to respond better to this eventuality.
+What is the Industrial Internet of Things (IIoT)?
+Internet of Things
+is rather simple to understand. All the items currently which are electronically non connected e.g. an electrical device that does not have any form of electronic connectivity to other devices, not gets to make their presence felt in the electronic world and networks like the internet. Now this when extended to Industrial appliances, machines makes up the world of Industrial IoT.
+What are the examples of IoT?
+The common examples we find in everyday life like a refrigerator which is internet connected and able to reply or react/quick to respond to commands from mobile application. Industrial IoT has more complex iiot solutions where in the devices like machines running on the shop floor are connected to command and data center where smart machine learning based algos crunch the data from these devices. The mass production is now going to go through a digital transformation of sorts
+What are the benefits of Industrial IoT?
+The core purpose of Industrial IoT deployments are operational efficiency and cost-efficiency. Manufacturing operations seems to be the major place for the current IoT spends. Typical use cases of IoT are that of preemptive maintenance e.g. a customer can be provided with a notification that machine is showing signs of wear and tear and it needs replace of a specific part. It is difficult many times to come up with quantitative and tangible benefits. Some of the use cases the benefits are very obvious are the use cases like if there is the sudden temperature in some remote location in the plant and this immediate attention, use case of sending remote notifications to those onshore if there are issues in some underwater industrial robotic arm malfunctioning.
+What are the current challenges with Industrial IoT?
+Some of the major challenges which companies are facing with regard to IoT are that of huge amount of data and the variety of data, lack of skills and security. These aspects are crucial for building sufficient traction towards bigger and more implementations of IoT.
+What is the impact of Industrial IoT (IIoT) on the future of Manufacturing?
+The manufacturing industry is going to see a sea of change. Concepts like Industry 4.0 are making inroads with the help of IoT. The IoT applications and devices together are going to be providing various valuable insights which were earlier not available. With these insights, one expects that the operational efficiency is going to drastically improve. The entire supply chain is bound to change with IoT influence. The IoT is going to impact, how maintenance is undertaken – now it is going to more of predictive maintenance instead of just preventive maintenance. Thus the Industrial IoT applications are many and their use cases are going to increase with more innovations. These IoT devices are going to provide real-time visibility to the world of things which was never possible before. Intelligent solutions build around these devices are bound to make the customer experience better and business outcomes more predictable.
+How can Industrial IoT impact your bottomline and future?
+The obvious question that one would like to know, how will it impact our business. This is a question more from the point of view getting a more personalized understanding of the impact.
+Feel free to reach out to us, we would be glad to help you. Click the button below to fill a form and get a
+Free consultation from one of experts
+who can even come down to your location to help clarify your questions.
+First Name*:
+Last Name*:
+Email*:
+Phone*:
+Business Name:
+Website:
+Comment*:
+When would you like us to call you?
+Time Zone*:
+(GMT -12:00) Etc/GMT+12
+(GMT -11:00) Etc/GMT+11
+(GMT -11:00) Pacific/Midway
+(GMT -11:00) Pacific/Niue
+(GMT -11:00) Pacific/Pago_Pago
+(GMT -11:00) Pacific/Samoa
+(GMT -11:00) US/Samoa
+(GMT -10:00) Etc/GMT+10
+(GMT -10:00) HST
+(GMT -10:00) Pacific/Honolulu
+(GMT -10:00) Pacific/Johnston
+(GMT -10:00) Pacific/Rarotonga
+(GMT -10:00) Pacific/Tahiti
+(GMT -10:00) US/Hawaii
+(GMT -09:30) Pacific/Marquesas
+(GMT -09:00) America/Adak
+(GMT -09:00) America/Atka
+(GMT -09:00) Etc/GMT+9
+(GMT -09:00) Pacific/Gambier
+(GMT -09:00) US/Aleutian
+(GMT -08:00) America/Anchorage
+(GMT -08:00) America/Juneau
+(GMT -08:00) America/Metlakatla
+(GMT -08:00) America/Nome
+(GMT -08:00) America/Sitka
+(GMT -08:00) America/Yakutat
+(GMT -08:00) Etc/GMT+8
+(GMT -08:00) Pacific/Pitcairn
+(GMT -08:00) US/Alaska
+(GMT -07:00) America/Creston
+(GMT -07:00) America/Dawson
+(GMT -07:00) America/Dawson_Creek
+(GMT -07:00) America/Ensenada
+(GMT -07:00) America/Hermosillo
+(GMT -07:00) America/Los_Angeles
+(GMT -07:00) America/Phoenix
+(GMT -07:00) America/Santa_Isabel
+(GMT -07:00) America/Tijuana
+(GMT -07:00) America/Vancouver
+(GMT -07:00) America/Whitehorse
+(GMT -07:00) Canada/Pacific
+(GMT -07:00) Canada/Yukon
+(GMT -07:00) Etc/GMT+7
+(GMT -07:00) MST
+(GMT -07:00) Mexico/BajaNorte
+(GMT -07:00) PST8PDT
+(GMT -07:00) US/Arizona
+(GMT -07:00) US/Pacific
+(GMT -07:00) US/Pacific-New
+(GMT -06:00) America/Belize
+(GMT -06:00) America/Boise
+(GMT -06:00) America/Cambridge_Bay
+(GMT -06:00) America/Chihuahua
+(GMT -06:00) America/Costa_Rica
+(GMT -06:00) America/Denver
+(GMT -06:00) America/Edmonton
+(GMT -06:00) America/El_Salvador
+(GMT -06:00) America/Guatemala
+(GMT -06:00) America/Inuvik
+(GMT -06:00) America/Managua
+(GMT -06:00) America/Mazatlan
+(GMT -06:00) America/Ojinaga
+(GMT -06:00) America/Regina
+(GMT -06:00) America/Shiprock
+(GMT -06:00) America/Swift_Current
+(GMT -06:00) America/Tegucigalpa
+(GMT -06:00) America/Yellowknife
+(GMT -06:00) Canada/East-Saskatchewan
+(GMT -06:00) Canada/Mountain
+(GMT -06:00) Canada/Saskatchewan
+(GMT -06:00) Chile/EasterIsland
+(GMT -06:00) Etc/GMT+6
+(GMT -06:00) MST7MDT
+(GMT -06:00) Mexico/BajaSur
+(GMT -06:00) Navajo
+(GMT -06:00) Pacific/Easter
+(GMT -06:00) Pacific/Galapagos
+(GMT -06:00) US/Mountain
+(GMT -05:00) America/Atikokan
+(GMT -05:00) America/Bahia_Banderas
+(GMT -05:00) America/Bogota
+(GMT -05:00) America/Cancun
+(GMT -05:00) America/Cayman
+(GMT -05:00) America/Chicago
+(GMT -05:00) America/Coral_Harbour
+(GMT -05:00) America/Eirunepe
+(GMT -05:00) America/Guayaquil
+(GMT -05:00) America/Indiana/Knox
+(GMT -05:00) America/Indiana/Tell_City
+(GMT -05:00) America/Jamaica
+(GMT -05:00) America/Knox_IN
+(GMT -05:00) America/Lima
+(GMT -05:00) America/Matamoros
+(GMT -05:00) America/Menominee
+(GMT -05:00) America/Merida
+(GMT -05:00) America/Mexico_City
+(GMT -05:00) America/Monterrey
+(GMT -05:00) America/North_Dakota/Beulah
+(GMT -05:00) America/North_Dakota/Center
+(GMT -05:00) America/North_Dakota/New_Salem
+(GMT -05:00) America/Panama
+(GMT -05:00) America/Porto_Acre
+(GMT -05:00) America/Rainy_River
+(GMT -05:00) America/Rankin_Inlet
+(GMT -05:00) America/Resolute
+(GMT -05:00) America/Rio_Branco
+(GMT -05:00) America/Winnipeg
+(GMT -05:00) Brazil/Acre
+(GMT -05:00) CST6CDT
+(GMT -05:00) Canada/Central
+(GMT -05:00) EST
+(GMT -05:00) Etc/GMT+5
+(GMT -05:00) Jamaica
+(GMT -05:00)Mexico/General
+(GMT -05:00) US/Central
+(GMT -05:00) US/Indiana-Starke
+(GMT -04:30) America/Caracas
+(GMT -04:00) America/Anguilla
+(GMT -04:00) America/Antigua
+(GMT -04:00) America/Aruba
+(GMT -04:00) America/Asuncion
+(GMT -04:00) America/Barbados
+(GMT -04:00) America/Blanc-Sablon
+(GMT -04:00) America/Boa_Vista
+(GMT -04:00) America/Campo_Grande
+(GMT -04:00) America/Cuiaba
+(GMT -04:00) America/Curacao
+(GMT -04:00) America/Detroit
+(GMT -04:00) America/Dominica
+(GMT -04:00) America/Fort_Wayne
+(GMT -04:00) America/Grand_Turk
+(GMT -04:00) America/Grenada
+(GMT -04:00) America/Guadeloupe
+(GMT -04:00) America/Guyana
+(GMT -04:00) America/Havana
+(GMT -04:00) America/Indiana/Indianapolis
+(GMT -04:00) America/Indiana/Marengo
+(GMT -04:00) America/Indiana/Petersburg
+(GMT -04:00) America/Indiana/Vevay
+(GMT -04:00) America/Indiana/Vincennes
+(GMT -04:00) America/Indiana/Winamac
+(GMT -04:00) America/Indianapolis
+(GMT -04:00) America/Iqaluit
+(GMT -04:00) America/Kentucky/Louisville
+(GMT -04:00) America/Kentucky/Monticello
+(GMT -04:00) America/Kralendijk
+(GMT -04:00) America/La_Paz
+(GMT -04:00) America/Louisville
+(GMT -04:00) America/Lower_Princes
+(GMT -04:00) America/Manaus
+(GMT -04:00) America/Marigot
+(GMT -04:00) America/Martinique
+(GMT -04:00) America/Montreal
+(GMT -04:00) America/Montserrat
+(GMT -04:00) America/Nassau
+(GMT -04:00) America/New_York
+(GMT -04:00) America/Nipigon
+(GMT -04:00) America/Pangnirtung
+(GMT -04:00) America/Port-au-Prince
+(GMT -04:00) America/Port_of_Spain
+(GMT -04:00) America/Porto_Velho
+(GMT -04:00) America/Puerto_Rico
+(GMT -04:00) America/Santiago
+(GMT -04:00) America/Santo_Domingo
+(GMT -04:00) America/St_Barthelemy
+(GMT -04:00) America/St_Kitts
+(GMT -04:00) America/St_Lucia
+(GMT -04:00) America/St_Thomas
+(GMT -04:00) America/St_Vincent
+(GMT -04:00) America/Thunder_Bay
+(GMT -04:00) America/Toronto
+(GMT -04:00) America/Tortola
+(GMT -04:00) America/Virgin
+(GMT -04:00) Antarctica/Palmer
+(GMT -04:00) Brazil/West
+(GMT -04:00) Canada/Eastern
+(GMT -04:00) Chile/Continental
+(GMT -04:00) Cuba
+(GMT -04:00) EST5EDT
+(GMT -04:00) Etc/GMT+4
+(GMT -04:00) US/East-Indiana
+(GMT -04:00) US/Eastern
+(GMT -04:00) US/Michigan
+(GMT -03:00) America/Araguaina
+(GMT -03:00) America/Argentina/Buenos_Aires
+(GMT -03:00) America/Argentina/Catamarca
+(GMT -03:00) America/Argentina/ComodRivadavia
+(GMT -03:00) America/Argentina/Cordoba
+(GMT -03:00) America/Argentina/Jujuy
+(GMT -03:00) America/Argentina/La_Rioja
+(GMT -03:00) America/Argentina/Mendoza
+(GMT -03:00) America/Argentina/Rio_Gallegos
+(GMT -03:00) America/Argentina/Salta
+(GMT -03:00) America/Argentina/San_Juan
+(GMT -03:00) America/Argentina/San_Luis
+(GMT -03:00) America/Argentina/Tucuman
+(GMT -03:00) America/Argentina/Ushuaia
+(GMT -03:00) America/Bahia
+(GMT -03:00) America/Belem
+(GMT -03:00) America/Buenos_Aires
+(GMT -03:00) America/Catamarca
+(GMT -03:00) America/Cayenne
+(GMT -03:00) America/Cordoba
+(GMT -03:00) America/Fortaleza
+(GMT -03:00) America/Glace_Bay
+(GMT -03:00) America/Goose_Bay
+(GMT -03:00) America/Halifax
+(GMT -03:00) America/Jujuy
+(GMT -03:00) America/Maceio
+(GMT -03:00) America/Mendoza
+(GMT -03:00) America/Moncton
+(GMT -03:00) America/Montevideo
+(GMT -03:00) America/Paramaribo
+(GMT -03:00) America/Recife
+(GMT -03:00) America/Rosario
+(GMT -03:00) America/Santarem
+(GMT -03:00) America/Sao_Paulo
+(GMT -03:00) America/Thule
+(GMT -03:00) Antarctica/Rothera
+(GMT -03:00) Atlantic/Bermuda
+(GMT -03:00) Atlantic/Stanley
+(GMT -03:00) Brazil/East
+(GMT -03:00) Canada/Atlantic
+(GMT -03:00) Etc/GMT+3
+(GMT -02:30) America/St_Johns
+(GMT -02:30) Canada/Newfoundland
+(GMT -02:00) America/Godthab
+(GMT -02:00) America/Miquelon
+(GMT -02:00) America/Noronha
+(GMT -02:00) Atlantic/South_Georgia
+(GMT -02:00) Brazil/DeNoronha
+(GMT -02:00) Etc/GMT+2
+(GMT -01:00) Atlantic/Cape_Verde
+(GMT -01:00) Etc/GMT+1
+(GMT +00:00) Africa/Abidjan
+(GMT +00:00) Africa/Accra
+(GMT +00:00) Africa/Bamako
+(GMT +00:00) Africa/Banjul
+(GMT +00:00) Africa/Bissau
+(GMT +00:00) Africa/Conakry
+(GMT +00:00) Africa/Dakar
+(GMT +00:00) Africa/Freetown
+(GMT +00:00) Africa/Lome
+(GMT +00:00) Africa/Monrovia
+(GMT +00:00) Africa/Nouakchott
+(GMT +00:00) Africa/Ouagadougou
+(GMT +00:00) Africa/Sao_Tome
+(GMT +00:00) Africa/Timbuktu
+(GMT +00:00) America/Danmarkshavn
+(GMT +00:00) America/Scoresbysund
+(GMT +00:00) Atlantic/Azores
+(GMT +00:00) Atlantic/Reykjavik
+(GMT +00:00) Atlantic/St_Helena
+(GMT +00:00) Etc/GMT
+(GMT +00:00) Etc/GMT+0
+(GMT +00:00) Etc/GMT-0
+(GMT +00:00) Etc/GMT0
+(GMT +00:00) Etc/Greenwich
+(GMT +00:00) Etc/UCT
+(GMT +00:00) Etc/UTC
+(GMT +00:00) Etc/Universal
+(GMT +00:00) Etc/Zulu
+(GMT +00:00) GMT
+(GMT +00:00) GMT+0
+(GMT +00:00) GMT-0
+(GMT +00:00) GMT0
+(GMT +00:00) Greenwich
+(GMT +00:00) Iceland
+(GMT +00:00) UCT
+(GMT +00:00) UTC
+(GMT +00:00) Universal
+(GMT +00:00) Zulu
+(GMT +01:00) Africa/Algiers
+(GMT +01:00) Africa/Bangui
+(GMT +01:00) Africa/Brazzaville
+(GMT +01:00) Africa/Casablanca
+(GMT +01:00) Africa/Douala
+(GMT +01:00) Africa/El_Aaiun
+(GMT +01:00) Africa/Kinshasa
+(GMT +01:00) Africa/Lagos
+(GMT +01:00) Africa/Libreville
+(GMT +01:00) Africa/Luanda
+(GMT +01:00) Africa/Malabo
+(GMT +01:00) Africa/Ndjamena
+(GMT +01:00) Africa/Niamey
+(GMT +01:00) Africa/Porto-Novo
+(GMT +01:00) Africa/Tunis
+(GMT +01:00) Africa/Windhoek
+(GMT +01:00) Atlantic/Canary
+(GMT +01:00) Atlantic/Faeroe
+(GMT +01:00) Atlantic/Faroe
+(GMT +01:00) Atlantic/Madeira
+(GMT +01:00) Eire
+(GMT +01:00) Etc/GMT-1
+(GMT +01:00) Europe/Belfast
+(GMT +01:00) Europe/Dublin
+(GMT +01:00) Europe/Guernsey
+(GMT +01:00) Europe/Isle_of_Man
+(GMT +01:00) Europe/Jersey
+(GMT +01:00) Europe/Lisbon
+(GMT +01:00) Europe/London
+(GMT +01:00) GB
+(GMT +01:00) GB-Eire
+(GMT +01:00) Portugal
+(GMT +01:00) WET
+(GMT +02:00) Africa/Blantyre
+(GMT +02:00) Africa/Bujumbura
+(GMT +02:00) Africa/Ceuta
+(GMT +02:00) Africa/Gaborone
+(GMT +02:00) Africa/Harare
+(GMT +02:00) Africa/Johannesburg
+(GMT +02:00) Africa/Kigali
+(GMT +02:00) Africa/Lubumbashi
+(GMT +02:00) Africa/Lusaka
+(GMT +02:00) Africa/Maputo
+(GMT +02:00) Africa/Maseru
+(GMT +02:00) Africa/Mbabane
+(GMT +02:00) Africa/Tripoli
+(GMT +02:00) Antarctica/Troll
+(GMT +02:00) Arctic/Longyearbyen
+(GMT +02:00) Atlantic/Jan_Mayen
+(GMT +02:00) CET
+(GMT +02:00) Etc/GMT-2
+(GMT +02:00) Europe/Amsterdam
+(GMT +02:00) Europe/Andorra
+(GMT +02:00) Europe/Belgrade
+(GMT +02:00) Europe/Berlin
+(GMT +02:00) Europe/Bratislava
+(GMT +02:00) Europe/Brussels
+(GMT +02:00) Europe/Budapest
+(GMT +02:00) Europe/Busingen
+(GMT +02:00) Europe/Copenhagen
+(GMT +02:00) Europe/Gibraltar
+(GMT +02:00) Europe/Kaliningrad
+(GMT +02:00) Europe/Ljubljana
+(GMT +02:00) Europe/Luxembourg
+(GMT +02:00) Europe/Madrid
+(GMT +02:00) Europe/Malta
+(GMT +02:00) Europe/Monaco
+(GMT +02:00) Europe/Oslo
+(GMT +02:00) Europe/Paris
+(GMT +02:00) Europe/Podgorica
+(GMT +02:00) Europe/Prague
+(GMT +02:00) Europe/Rome
+(GMT +02:00) Europe/San_Marino
+(GMT +02:00) Europe/Sarajevo
+(GMT +02:00) Europe/Skopje
+(GMT +02:00) Europe/Stockholm
+(GMT +02:00) Europe/Tirane
+(GMT +02:00) Europe/Vaduz
+(GMT +02:00) Europe/Vatican
+(GMT +02:00) Europe/Vienna
+(GMT +02:00) Europe/Warsaw
+(GMT +02:00) Europe/Zagreb
+(GMT +02:00) Europe/Zurich
+(GMT +02:00) Libya
+(GMT +02:00) MET
+(GMT +02:00) Poland
+(GMT +03:00) Africa/Addis_Ababa
+(GMT +03:00) Africa/Asmara
+(GMT +03:00) Africa/Asmera
+(GMT +03:00) Africa/Cairo
+(GMT +03:00) Africa/Dar_es_Salaam
+(GMT +03:00) Africa/Djibouti
+(GMT +03:00) Africa/Juba
+(GMT +03:00) Africa/Kampala
+(GMT +03:00) Africa/Khartoum
+(GMT +03:00) Africa/Mogadishu
+(GMT +03:00) Africa/Nairobi
+(GMT +03:00) Antarctica/Syowa
+(GMT +03:00) Asia/Aden
+(GMT +03:00) Asia/Amman
+(GMT +03:00) Asia/Baghdad
+(GMT +03:00) Asia/Bahrain
+(GMT +03:00) Asia/Beirut
+(GMT +03:00) Asia/Damascus
+(GMT +03:00) Asia/Gaza
+(GMT +03:00) Asia/Hebron
+(GMT +03:00) Asia/Istanbul
+(GMT +03:00) Asia/Jerusalem
+(GMT +03:00) Asia/Kuwait
+(GMT +03:00) Asia/Nicosia
+(GMT +03:00) Asia/Qatar
+(GMT +03:00) Asia/Riyadh
+(GMT +03:00) Asia/Tel_Aviv
+(GMT +03:00) EET
+(GMT +03:00) Egypt
+(GMT +03:00) Etc/GMT-3
+(GMT +03:00) Europe/Athens
+(GMT +03:00) Europe/Bucharest
+(GMT +03:00) Europe/Chisinau
+(GMT +03:00) Europe/Helsinki
+(GMT +03:00) Europe/Istanbul
+(GMT +03:00) Europe/Kiev
+(GMT +03:00) Europe/Mariehamn
+(GMT +03:00) Europe/Minsk
+(GMT +03:00) Europe/Moscow
+(GMT +03:00) Europe/Nicosia
+(GMT +03:00) Europe/Riga
+(GMT +03:00) Europe/Simferopol
+(GMT +03:00) Europe/Sofia
+(GMT +03:00) Europe/Tallinn
+(GMT +03:00) Europe/Tiraspol
+(GMT +03:00) Europe/Uzhgorod
+(GMT +03:00) Europe/Vilnius
+(GMT +03:00) Europe/Volgograd
+(GMT +03:00) Europe/Zaporozhye
+(GMT +03:00) Indian/Antananarivo
+(GMT +03:00) Indian/Comoro
+(GMT +03:00) Indian/Mayotte
+(GMT +03:00) Israel
+(GMT +03:00) Turkey
+(GMT +03:00) W-SU
+(GMT +04:00) Asia/Dubai
+(GMT +04:00) Asia/Muscat
+(GMT +04:00) Asia/Tbilisi
+(GMT +04:00) Asia/Yerevan
+(GMT +04:00) Etc/GMT-4
+(GMT +04:00) Europe/Samara
+(GMT +04:00) Indian/Mahe
+(GMT +04:00) Indian/Mauritius
+(GMT +04:00) Indian/Reunion
+(GMT +04:30) Asia/Kabul
+(GMT +04:30) Asia/Tehran
+(GMT +04:30) Iran
+(GMT +05:00) Antarctica/Mawson
+(GMT +05:00) Asia/Aqtau
+(GMT +05:00) Asia/Aqtobe
+(GMT +05:00) Asia/Ashgabat
+(GMT +05:00) Asia/Ashkhabad
+(GMT +05:00) Asia/Baku
+(GMT +05:00) Asia/Dushanbe
+(GMT +05:00) Asia/Karachi
+(GMT +05:00) Asia/Oral
+(GMT +05:00) Asia/Samarkand
+(GMT +05:00) Asia/Tashkent
+(GMT +05:00) Asia/Yekaterinburg
+(GMT +05:00) Etc/GMT-5
+(GMT +05:00) Indian/Kerguelen
+(GMT +05:00) Indian/Maldives
+(GMT +05:30) Asia/Calcutta
+(GMT +05:30) Asia/Colombo
+(GMT +05:30) Asia/Kolkata
+(GMT +05:45) Asia/Kathmandu
+(GMT +05:45) Asia/Katmandu
+(GMT +06:00) Antarctica/Vostok
+(GMT +06:00) Asia/Almaty
+(GMT +06:00) Asia/Bishkek
+(GMT +06:00) Asia/Dacca
+(GMT +06:00) Asia/Dhaka
+(GMT +06:00) Asia/Kashgar
+(GMT +06:00) Asia/Novosibirsk
+(GMT +06:00) Asia/Omsk
+(GMT +06:00) Asia/Qyzylorda
+(GMT +06:00) Asia/Thimbu
+(GMT +06:00) Asia/Thimphu
+(GMT +06:00) Asia/Urumqi
+(GMT +06:00) Etc/GMT-6
+(GMT +06:00) Indian/Chagos
+(GMT +06:30) Asia/Rangoon
+(GMT +06:30) Indian/Cocos
+(GMT +07:00) Antarctica/Davis
+(GMT +07:00) Asia/Bangkok
+(GMT +07:00) Asia/Ho_Chi_Minh
+(GMT +07:00) Asia/Hovd
+(GMT +07:00) Asia/Jakarta
+(GMT +07:00) Asia/Krasnoyarsk
+(GMT +07:00) Asia/Novokuznetsk
+(GMT +07:00) Asia/Phnom_Penh
+(GMT +07:00) Asia/Pontianak
+(GMT +07:00) Asia/Saigon
+(GMT +07:00) Asia/Vientiane
+(GMT +07:00) Etc/GMT-7
+(GMT +07:00) Indian/Christmas
+(GMT +08:00) Antarctica/Casey
+(GMT +08:00) Asia/Brunei
+(GMT +08:00) Asia/Chita
+(GMT +08:00) Asia/Choibalsan
+(GMT +08:00) Asia/Chongqing
+(GMT +08:00) Asia/Chungking
+(GMT +08:00) Asia/Harbin
+(GMT +08:00) Asia/Hong_Kong
+(GMT +08:00) Asia/Irkutsk
+(GMT +08:00) Asia/Kuala_Lumpur
+(GMT +08:00) Asia/Kuching
+(GMT +08:00) Asia/Macao
+(GMT +08:00) Asia/Macau
+(GMT +08:00) Asia/Makassar
+(GMT +08:00) Asia/Manila
+(GMT +08:00) Asia/Shanghai
+(GMT +08:00) Asia/Singapore
+(GMT +08:00) Asia/Taipei
+(GMT +08:00) Asia/Ujung_Pandang
+(GMT +08:00) Asia/Ulaanbaatar
+(GMT +08:00) Asia/Ulan_Bator
+(GMT +08:00) Australia/Perth
+(GMT +08:00) Australia/West
+(GMT +08:00) Etc/GMT-8
+(GMT +08:00) Hongkong
+(GMT +08:00) PRC
+(GMT +08:00) ROC
+(GMT +08:00) Singapore
+(GMT +08:45) Australia/Eucla
+(GMT +09:00) Asia/Dili
+(GMT +09:00) Asia/Jayapura
+(GMT +09:00) Asia/Khandyga
+(GMT +09:00) Asia/Pyongyang
+(GMT +09:00) Asia/Seoul
+(GMT +09:00) Asia/Tokyo
+(GMT +09:00) Asia/Yakutsk
+(GMT +09:00) Etc/GMT-9
+(GMT +09:00) Japan
+(GMT +09:00) Pacific/Palau
+(GMT +09:00) ROK
+(GMT +09:30) Australia/Adelaide
+(GMT +09:30) Australia/Broken_Hill
+(GMT +09:30) Australia/Darwin
+(GMT +09:30) Australia/North
+(GMT +09:30) Australia/South
+(GMT +09:30) Australia/Yancowinna
+(GMT +10:00) Antarctica/DumontDUrville
+(GMT +10:00) Asia/Magadan
+(GMT +10:00) Asia/Sakhalin
+(GMT +10:00) Asia/Ust-Nera
+(GMT +10:00) Asia/Vladivostok
+(GMT +10:00) Australia/ACT
+(GMT +10:00) Australia/Brisbane
+(GMT +10:00) Australia/Canberra
+(GMT +10:00) Australia/Currie
+(GMT +10:00) Australia/Hobart
+(GMT +10:00) Australia/Lindeman
+(GMT +10:00) Australia/Melbourne
+(GMT +10:00) Australia/NSW
+(GMT +10:00) Australia/Queensland
+(GMT +10:00) Australia/Sydney
+(GMT +10:00) Australia/Tasmania
+(GMT +10:00) Australia/Victoria
+(GMT +10:00) Etc/GMT-10
+(GMT +10:00) Pacific/Chuuk
+(GMT +10:00) Pacific/Guam
+(GMT +10:00) Pacific/Port_Moresby
+(GMT +10:00) Pacific/Saipan
+(GMT +10:00) Pacific/Truk
+(GMT +10:00) Pacific/Yap
+(GMT +10:30) Australia/LHI
+(GMT +10:30) Australia/Lord_Howe
+(GMT +11:00) Antarctica/Macquarie
+(GMT +11:00) Asia/Srednekolymsk
+(GMT +11:00) Etc/GMT-11
+(GMT +11:00) Pacific/Bougainville
+(GMT +11:00) Pacific/Efate
+(GMT +11:00) Pacific/Guadalcanal
+(GMT +11:00) Pacific/Kosrae
+(GMT +11:00) Pacific/Noumea
+(GMT +11:00) Pacific/Pohnpei
+(GMT +11:00) Pacific/Ponape
+(GMT +11:30) Pacific/Norfolk
+(GMT +12:00) Antarctica/McMurdo
+(GMT +12:00) Antarctica/South_Pole
+(GMT +12:00) Asia/Anadyr
+(GMT +12:00) Asia/Kamchatka
+(GMT +12:00) Etc/GMT-12
+(GMT +12:00) Kwajalein
+(GMT +12:00) NZ
+(GMT +12:00) Pacific/Auckland
+(GMT +12:00) Pacific/Fiji
+(GMT +12:00) Pacific/Funafuti
+(GMT +12:00) Pacific/Kwajalein
+(GMT +12:00) Pacific/Majuro
+(GMT +12:00) Pacific/Nauru
+(GMT +12:00) Pacific/Tarawa
+(GMT +12:00) Pacific/Wake
+(GMT +12:00) Pacific/Wallis
+(GMT +12:45) NZ-CHAT
+(GMT +12:45) Pacific/Chatham
+(GMT +13:00) Etc/GMT-13
+(GMT +13:00) Pacific/Apia
+(GMT +13:00) Pacific/Enderbury
+(GMT +13:00) Pacific/Fakaofo
+(GMT +13:00) Pacific/Tongatapu
+(GMT +14:00) Etc/GMT-14
+(GMT +14:00) Pacific/Kiritimati
+Date* :
+Time* :
+12:00am
+12:30am
+1:00am
+1:30am
+2:00am
+2:30am
+3:00am
+3:30am
+4:00am
+4:30am
+5:00am
+5:30am
+6:00am
+6:30am
+7:00am
+7:30am
+8:00am
+8:30am
+9:00am
+9:30am
+10:00am
+10:30am
+11:00am
+11:30am
+12:00pm
+12:30pm
+1:00pm
+1:30pm
+2:00pm
+2:30pm
+3:00pm
+3:30pm
+4:00pm
+4:30pm
+5:00pm
+5:30pm
+6:00pm
+6:30pm
+7:00pm
+7:30pm
+8:00pm
+8:30pm
+9:00pm
+9:30pm
+10:00pm
+10:30pm
+11:00pm
+11:30pm
 © QuicSolv Technologies Pvt. Ltd. 2023. All rights reserved.
 Contact Us
 We're not around right now. But you can send us an email and we'll get back to you, asap.
