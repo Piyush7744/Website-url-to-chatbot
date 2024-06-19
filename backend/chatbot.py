@@ -20,7 +20,7 @@ def main():
         st.session_state.token = None
 
     url = st.text_input("Enter Website URL", "")
-    keywords = ["internet of things", "iot", "tutorial", "guide", "documentation"]
+    keywords = ["application", "tutorial"]
     depth = 2
 
     if not st.session_state.scraping_done:

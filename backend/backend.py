@@ -2,6 +2,7 @@ import os
 import requests
 import shutil
 import time
+from urllib.parse import urlparse, urljoin
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from llama_index.core import VectorStoreIndex, Document
@@ -107,6 +108,11 @@ def read_links_from_file(filename):
                 links.append(line)
     return links
 
+def ensure_absolute_url(base_url, url):
+    if not urlparse(url).scheme:
+        return urljoin(base_url, url)
+    return url
+
 def download_webpages(links, download_folder):
     if os.path.exists(download_folder):
         shutil.rmtree(download_folder)
@@ -130,7 +136,6 @@ def download_webpages(links, download_folder):
         except Exception as e:
             print(f"Unexpected error occurred while downloading {link}: {e}")
             continue
-
 
 def extract_text_from_html_files(input_directory, output_file_path):
     html_files = [f for f in os.listdir(input_directory) if f.endswith('.html')]
