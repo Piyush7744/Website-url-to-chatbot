@@ -31,24 +31,30 @@ def fetch_page_content(url):
     except requests.exceptions.RequestException as e:
         return None
 
-def get_navbar_links(soup):
+def get_absolute_url(base_url, link):
+    return requests.compat.urljoin(base_url, link)
+
+def get_navbar_links(soup, base_url):
     navbar_links = []
-    navbars = soup.find_all('nav')  
+    navbars = soup.find_all('nav')
+    print(f"Found {len(navbars)} navbar elements.")
     for navbar in navbars:
         links = navbar.find_all('a', href=True)
         for link in links:
-            navbar_links.append(link['href'])
+            absolute_link = get_absolute_url(base_url, link['href'])
+            navbar_links.append(absolute_link)
     return navbar_links
 
-def get_information_links(soup, keywords):
-    information_links = []
+def get_all_links(soup, base_url):
+    all_links = []
     links = soup.find_all('a', href=True)
+    print(f"Found {len(links)} total links.")
     for link in links:
-        if any(keyword in link.get_text().lower() for keyword in keywords):
-            information_links.append(link['href'])
-    return information_links
+        absolute_link = get_absolute_url(base_url, link['href'])
+        all_links.append(absolute_link)
+    return all_links
 
-def find_nested_links(url, keywords, depth=2):
+def find_nested_links(url, depth=2):
     if depth == 0:
         return []
 
@@ -57,46 +63,48 @@ def find_nested_links(url, keywords, depth=2):
         return []
 
     soup = BeautifulSoup(content, 'html.parser')
-    links = get_information_links(soup, keywords)
+    links = get_all_links(soup, url)
     
     all_links = []
     for link in links:
-        absolute_link = requests.compat.urljoin(url, link)
-        all_links.append(absolute_link)
-        time.sleep(1)  # To avoid overwhelming the server
-        nested_links = find_nested_links(absolute_link, keywords, depth - 1)
-        all_links.extend(nested_links)
+        if link not in all_links:
+            all_links.append(link)
+            print(f"Fetching nested links from: {link}")
+            time.sleep(1)  # To avoid overwhelming the server
+            nested_links = find_nested_links(link, depth - 1)
+            all_links.extend(nested_links)
     
     return all_links
 
-def find_useful_links(url, keywords, depth=2):
+def find_useful_links(url, keywords=[], depth=2):
     content = fetch_page_content(url)
     if content is None:
         return [], []
 
     soup = BeautifulSoup(content, 'html.parser')
     
-    navbar_links = get_navbar_links(soup)
-    information_links = get_information_links(soup, keywords)
+    navbar_links = get_navbar_links(soup, url)
+    all_links = get_all_links(soup, url)
     
-    all_information_links = []
-    for link in information_links:
-        absolute_link = requests.compat.urljoin(url, link)
-        all_information_links.append(absolute_link)
-        time.sleep(1)  # To avoid overwhelming the server
-        nested_links = find_nested_links(absolute_link, keywords, depth - 1)
-        all_information_links.extend(nested_links)
+    all_nested_links = []
+    for link in all_links:
+        if link not in all_nested_links:
+            all_nested_links.append(link)
+            print(f"Fetching nested links from: {link}")
+            time.sleep(1)  # To avoid overwhelming the server
+            nested_links = find_nested_links(link, depth - 1)
+            all_nested_links.extend(nested_links)
     
-    return navbar_links, all_information_links
+    return navbar_links, all_nested_links
 
-def save_links_to_file(navbar_links, information_links, filename):
+def save_links_to_file(navbar_links, all_links, filename):
     with open(filename, 'w') as file:
         file.write("Navbar Links:\n")
         for link in navbar_links:
             file.write(f"{link}\n")
         
-        file.write("\nInformation Links:\n")
-        for link in information_links:
+        file.write("\nAll Links:\n")
+        for link in all_links:
             file.write(f"{link}\n")
 
 def read_links_from_file(filename):

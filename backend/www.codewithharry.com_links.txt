@@ -1,5 +1,25 @@
 Navbar Links:
 
-Information Links:
+All Links:
+https://www.codewithharry.com/
+https://www.codewithharry.com/
+https://www.codewithharry.com/videos/
 https://www.codewithharry.com/tutorials/
-https://www.codewithharry.com/tutorials/
+https://www.codewithharry.com/blog/
+https://www.codewithharry.com/notes/
+https://www.codewithharry.com/contact/
+https://www.codewithharry.com/my-gear/
+https://www.codewithharry.com/work/
+https://www.codewithharry.com/tutorial/html-home/
+https://www.codewithharry.com/tutorial/css-home/
+https://www.codewithharry.com/tutorial/js/
+https://www.codewithharry.com/tutorial/c/
+https://www.codewithharry.com/tutorial/cplusplus/
+https://www.codewithharry.com/tutorial/java/
+https://www.codewithharry.com/tutorial/python/
+https://www.codewithharry.com/tutorial/php/
+https://www.codewithharry.com/tutorial/react-home/
+https://www.facebook.com/codewithharry
+https://www.twitter.com/codewithharry
+https://www.instagram.com/codewithharry
+https://www.github.com/codewithharry
