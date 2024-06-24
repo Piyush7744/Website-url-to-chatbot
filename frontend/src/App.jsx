@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import axios from 'axios';
+import { useState } from 'react';
+import './App.css';
 
 function App() {
   const [url, setUrl] = useState('');
@@ -23,25 +23,25 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Web Scraper</h1>
-      <form onSubmit={handleSubmit}>
-        <div>
-          <label>
-            URL:
-            <input type="text" value={url} onChange={(e) => setUrl(e.target.value)} required />
-          </label>
+      <div className="chat-container">
+        <div className="chat-box">
+          <div className="message-container">
+            {messages.map((message, index) => (
+              <p key={index} className={`message ${message.sender === 'bot' ? 'bot-message' : 'user-message'}`}>
+                {message.text}
+              </p>
+            ))}
+            {loading && <div className="loader my-2"><div className="loader-dot h-8 w-8 border-t-4 border-blue-500"></div></div>}
+          </div>
         </div>
-        <div>
-          <label>
-            Keywords (comma separated):
-            <input type="text" value={keywords} onChange={(e) => setKeywords(e.target.value)} />
-          </label>
-        </div>
-        <div>
-          <label>
-            Depth:
-            <input type="number" value={depth} onChange={(e) => setDepth(e.target.value)} />
-          </label>
+        <div className="input-box">
+          <input
+            type="text"
+            value={userInput}
+            onChange={(e) => setUserInput(e.target.value)}
+            placeholder="Type your question here..."
+          />
+          <button onClick={sendMessage}>Send</button>
         </div>
         <button type="submit">Scrape</button>
       </form>
