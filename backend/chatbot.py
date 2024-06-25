@@ -60,7 +60,7 @@ def main():
                     with open(token_file, "w") as f:
                         f.write(st.session_state.token)
 
-                    # Generate HTML snippet
+                    # Generate HTML snippet with only query field
                     html_code = f"""
                     <!DOCTYPE html>
                     <html lang="en">
@@ -70,47 +70,43 @@ def main():
                         <title>Query Interface</title>
                         <script>
                             async function runQuery() {{
-                                const url = document.getElementById('url').value;
                                 const query = document.getElementById('query').value;
-                                const inputToken = document.getElementById('token').value;
+                                const url = '{url}';
+                                const token = '{st.session_state.token}';
     
                                 // Load the token from a file (simulated here for demonstration)
-                                const storedToken = '6Yk1IxWyu0bfl7PW'; // Replace this with the actual token loading mechanism
+                                const storedToken = token; // Use the actual token from session state
     
-                                if (url && query && inputToken) {{
-                                    if (inputToken === storedToken) {{
-                                        try {{
-                                            const domain = new URL(url).hostname;
-                                            const filePath = `${{domain}}_cleaned_text.txt`; // This is just a placeholder for the actual file path
+                                if (query) {{
+                                    try {{
+                                        const domain = new URL(url).hostname;
+                                        const filePath = `{domain}_cleaned_text.txt`; // This is just a placeholder for the actual file path
     
-                                            const response = await fetch('http://127.0.0.1:8000/api/run-vector-index', {{
-                                                method: 'POST',
-                                                headers: {{
-                                                    'Content-Type': 'application/json'
-                                                }},
-                                                body: JSON.stringify({{
-                                                    file_path: filePath,
-                                                    query: query
-                                                }})
-                                            }});
+                                        const response = await fetch('http://127.0.0.1:8000/api/run-vector-index', {{
+                                            method: 'POST',
+                                            headers: {{
+                                                'Content-Type': 'application/json'
+                                            }},
+                                            body: JSON.stringify({{
+                                                file_path: filePath,
+                                                query: query
+                                            }})
+                                        }});
     
-                                            if (!response.ok) {{
-                                                throw new Error('Network response was not ok ' + response.statusText);
-                                            }}
-    
-                                            const data = await response.json();
-    
-                                            // Display the response
-                                            document.getElementById('output').innerText = JSON.stringify(data.response, null, 2);
-                                        }} catch (error) {{
-                                            console.error('An error occurred:', error);
-                                            document.getElementById('output').innerText = 'An error occurred: ' + error.message;
+                                        if (!response.ok) {{
+                                            throw new Error('Network response was not ok ' + response.statusText);
                                         }}
-                                    }} else {{
-                                        document.getElementById('output').innerText = 'Invalid token';
+    
+                                        const data = await response.json();
+    
+                                        // Display the response
+                                        document.getElementById('output').innerText = JSON.stringify(data.response, null, 2);
+                                    }} catch (error) {{
+                                        console.error('An error occurred:', error);
+                                        document.getElementById('output').innerText = 'An error occurred: ' + error.message;
                                     }}
                                 }} else {{
-                                    document.getElementById('output').innerText = 'Please enter website URL, query, and token';
+                                    document.getElementById('output').innerText = 'Please enter a query';
                                 }}
                             }}
                         </script>
@@ -118,16 +114,8 @@ def main():
                     <body>
                         <h1>Query Interface</h1>
                         <div>
-                            <label for="url">Enter Website URL:</label>
-                            <input type="text" id="url" name="url">
-                        </div>
-                        <div>
                             <label for="query">Enter Query:</label>
                             <input type="text" id="query" name="query">
-                        </div>
-                        <div>
-                            <label for="token">Enter your access token:</label>
-                            <input type="password" id="token" name="token">
                         </div>
                         <button onclick="runQuery()">Run Query</button>
                         <pre id="output"></pre>
