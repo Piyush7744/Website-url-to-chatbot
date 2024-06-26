@@ -24,11 +24,11 @@ def main():
                 try:
                     domain = url.split("//")[-1].split("/")[0]
                     file_path = f"{domain}_cleaned_text.txt"
-                    query_engine = run_vector_index(file_path)
                     
-                    response = query_engine.query(query)
+                    response, cost = run_vector_index(file_path, query)
                     st.write("Response:")
-                    st.write(response.response)
+                    st.write(response)
+                    st.write(f"Cost of the query: ${cost:.4f}")
                 except Exception as e:
                     st.error(f"An error occurred: {e}")
             else:

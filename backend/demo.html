@@ -7,8 +7,8 @@
     <script>
         async function runQuery() {
             const query = document.getElementById('query').value;
-            const url = 'https://www.quicsolv.com/';
-            const token = 'LvwA7spcQooUZeWy';
+            const url = 'https://www.codewithharry.com/';
+            const token = '1Bbsj4fsTFzhI5L4';
 
             // Load the token from a file (simulated here for demonstration)
             const storedToken = token; // Use the actual token from session state
@@ -16,7 +16,7 @@
             if (query) {
                 try {
                     const domain = new URL(url).hostname;
-                    const filePath = `www.quicsolv.com_cleaned_text.txt`; // This is just a placeholder for the actual file path
+                    const filePath = `www.codewithharry.com_cleaned_text.txt`; // This is just a placeholder for the actual file path
 
                     const response = await fetch('http://127.0.0.1:8000/api/run-vector-index', {
                         method: 'POST',

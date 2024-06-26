@@ -1,3 +1,5 @@
+# backend.py
+
 import os
 import requests
 import shutil
@@ -181,7 +183,18 @@ def load_data_from_txt(file_path, encodings=('utf-8', 'cp1252')):
             continue
     raise Exception("Unable to decode the file using specified encodings")
 
-def run_vector_index(file_path):
+def calculate_query_cost(response, rate_per_token=0.0001):
+    """
+    Calculate the cost of the query based on the number of tokens in the response.
+    :param response: The response from the query engine.
+    :param rate_per_token: The cost rate per token.
+    :return: The cost of the query.
+    """
+    num_tokens = len(response.split())
+    cost = num_tokens * rate_per_token
+    return cost
+
+def run_vector_index(file_path, query):
     documents = load_data_from_txt(file_path)
     if not documents or all(not doc.text.strip() for doc in documents):
         raise ValueError("Cannot build index from nodes with no content. Please ensure all nodes have content.")
@@ -195,5 +208,8 @@ def run_vector_index(file_path):
         retriever=retriever,
         node_postprocessors=[postprocessor],
     )
+
+    response = query_engine.query(query)
+    cost = calculate_query_cost(response.response)
     
-    return query_engine
+    return response.response, cost
